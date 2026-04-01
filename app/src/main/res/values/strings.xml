@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ICT Content</string>
+    <string name="lesson_text_format">&lt;b&gt;Lesson %1$d:&lt;/b&gt;&lt;br/&gt;%2$s</string>
+    <string name="toolbar_title">ICT Educational Content</string>
+</resources>
